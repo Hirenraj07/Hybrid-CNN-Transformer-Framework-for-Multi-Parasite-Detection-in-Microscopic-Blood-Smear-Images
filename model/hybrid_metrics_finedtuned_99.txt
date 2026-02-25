@@ -1,0 +1,3 @@
+Test Accuracy: 0.99
+Macro F1: 0.98
+Plasmodium F1: 0.95
